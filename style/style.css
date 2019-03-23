@@ -1,0 +1,44 @@
+body{
+	
+}
+.header{
+	background-color: #1cb54d;
+	position: all;
+	width: 100%;
+	border: solid 1px white;
+	text-align: center;
+	position: fixed;
+}
+.header h1{
+	font-size: 36px;
+	font-family: Bradley Hand, cursive	; 
+}
+.container{
+	display: inline;
+
+}
+.sidebar{
+	position: fixed;
+	float:left;
+	width: 30%;
+	height: 100%;
+	margin-top: 100px;
+	background-color: green;
+	align-items: center;
+}
+.submit{
+	margin-top: 30px;
+	margin-left: 120px;
+	border-radius: 20px;
+	height: 50px;
+	width: 150px;
+
+}
+.contentContainer{
+	float: right;
+	width: 70%;
+	height: 600px;
+	background-color: white;
+}
+
+
